@@ -1,0 +1,12 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\bin\Debug\net6.0\WebSolutionSelf.Common.Enum.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\bin\Debug\net6.0\WebSolutionSelf.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\bin\Debug\net6.0\WebSolutionSelf.Common.Enum.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\refint\WebSolutionSelf.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\WebSolutionSelf.Common.Enum.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Enum\obj\Debug\net6.0\ref\WebSolutionSelf.Common.Enum.dll

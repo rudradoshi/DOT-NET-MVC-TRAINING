@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>WebSolutionSelf.WebApp._2_Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebSolutionSelf.Common.Model\WebSolutionSelf.Common.Model.csproj" />
+    <ProjectReference Include="..\WebSolutionSelf.WebApp.3_BusinessLogic\WebSolutionSelf.WebApp.3_BusinessLogic.csproj" />
+  </ItemGroup>
+
+</Project>

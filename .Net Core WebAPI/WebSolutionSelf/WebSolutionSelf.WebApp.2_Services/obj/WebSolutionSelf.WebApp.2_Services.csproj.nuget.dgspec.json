@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.2_Services\\WebSolutionSelf.WebApp.2_Services.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Enum\\WebSolutionSelf.Common.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Enum\\WebSolutionSelf.Common.Enum.csproj",
+        "projectName": "WebSolutionSelf.Common.Enum",
+        "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Enum\\WebSolutionSelf.Common.Enum.csproj",
+        "packagesPath": "C:\\Users\\Rudra.Doshi\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rudra.Doshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj",
+        "projectName": "WebSolutionSelf.Common.Model",
+        "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj",
+        "packagesPath": "C:\\Users\\Rudra.Doshi\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rudra.Doshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Enum\\WebSolutionSelf.Common.Enum.csproj": {
+                "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Enum\\WebSolutionSelf.Common.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.2_Services\\WebSolutionSelf.WebApp.2_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.2_Services\\WebSolutionSelf.WebApp.2_Services.csproj",
+        "projectName": "WebSolutionSelf.WebApp.2_Services",
+        "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.2_Services\\WebSolutionSelf.WebApp.2_Services.csproj",
+        "packagesPath": "C:\\Users\\Rudra.Doshi\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.2_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rudra.Doshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj": {
+                "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj"
+              },
+              "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.3_BusinessLogic\\WebSolutionSelf.WebApp.3_BusinessLogic.csproj": {
+                "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.3_BusinessLogic\\WebSolutionSelf.WebApp.3_BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.3_BusinessLogic\\WebSolutionSelf.WebApp.3_BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.3_BusinessLogic\\WebSolutionSelf.WebApp.3_BusinessLogic.csproj",
+        "projectName": "WebSolutionSelf.WebApp.3_BusinessLogic",
+        "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.3_BusinessLogic\\WebSolutionSelf.WebApp.3_BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Rudra.Doshi\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.3_BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rudra.Doshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj": {
+                "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj"
+              },
+              "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.4_DataAccess\\WebSolutionSelf.WebApp.4_DataAccess.csproj": {
+                "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.4_DataAccess\\WebSolutionSelf.WebApp.4_DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.4_DataAccess\\WebSolutionSelf.WebApp.4_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.4_DataAccess\\WebSolutionSelf.WebApp.4_DataAccess.csproj",
+        "projectName": "WebSolutionSelf.WebApp.4_DataAccess",
+        "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.4_DataAccess\\WebSolutionSelf.WebApp.4_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Rudra.Doshi\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.WebApp.4_DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rudra.Doshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj": {
+                "projectPath": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Desktop\\WebSolutionSelf\\WebSolutionSelf.Common.Model\\WebSolutionSelf.Common.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

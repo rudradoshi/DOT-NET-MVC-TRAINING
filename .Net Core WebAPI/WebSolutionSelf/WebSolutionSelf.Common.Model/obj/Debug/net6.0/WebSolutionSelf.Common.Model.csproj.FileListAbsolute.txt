@@ -1,0 +1,15 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\bin\Debug\net6.0\WebSolutionSelf.Common.Model.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\bin\Debug\net6.0\WebSolutionSelf.Common.Model.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\bin\Debug\net6.0\WebSolutionSelf.Common.Model.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\bin\Debug\net6.0\WebSolutionSelf.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\bin\Debug\net6.0\WebSolutionSelf.Common.Enum.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.csproj.CopyComplete
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\refint\WebSolutionSelf.Common.Model.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\WebSolutionSelf.Common.Model.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\WebSolutionSelf\WebSolutionSelf.Common.Model\obj\Debug\net6.0\ref\WebSolutionSelf.Common.Model.dll

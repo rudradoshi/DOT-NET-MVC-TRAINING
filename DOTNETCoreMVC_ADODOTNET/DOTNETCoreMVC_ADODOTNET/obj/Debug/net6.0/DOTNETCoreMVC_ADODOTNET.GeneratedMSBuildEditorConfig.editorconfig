@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DOTNETCoreMVC_ADODOTNET
+build_property.RootNamespace = DOTNETCoreMVC_ADODOTNET
+build_property.ProjectDir = D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\.Net Core MVC\DOTNETCoreMVC_ADODOTNET\DOTNETCoreMVC_ADODOTNET\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\.Net Core MVC\DOTNETCoreMVC_ADODOTNET\DOTNETCoreMVC_ADODOTNET
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Student/Create_Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGVfU3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Student/Delete_student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGVfc3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Student/Edit_student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0X3N0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Student/student_Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxzdHVkZW50X0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Desktop/.Net Core MVC/DOTNETCoreMVC_ADODOTNET/DOTNETCoreMVC_ADODOTNET/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-un6y83g8k8
